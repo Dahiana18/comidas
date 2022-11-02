@@ -1,0 +1,17 @@
+.titulo-1{
+    color: red;
+    background-color: darkgrey;
+}
+body{
+    background-image: url(https://1.bp.blogspot.com/-MSNkZz2qB04/X83iVZpgGVI/AAAAAAAAD7k/OXzeSwheiuwwEnU70NoRf7uZ68DZM-boACLcBGAsYHQ/s1280/LDH_TVLaint.jpg);
+    background-size:cover;
+}
+.button{
+    background-color: blueviolet;
+}
+.button p{
+    color: beige;
+}
+tr{
+    background-color: whitesmoke;
+}
